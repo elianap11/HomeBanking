@@ -1,6 +1,6 @@
 //Declaración de variables
 var nombreUsuario = "Jorge Rodríguez";
-var saldoCuenta = 6000;
+var saldoCuenta = "6000";
 var limiteExtraccion = 5000;
 
 var agua = 350;
